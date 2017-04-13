@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnpTcpDemux", "DnpTcpDemux\DnpTcpDemux.csproj", "{92BC0D4A-8530-4736-B4BF-F34E44A75036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnpTcpDemux.Common", "DnpTcpDemux.Common\DnpTcpDemux.Common.csproj", "{3B0773FB-BDEA-43D0-ADEB-6B21C8749667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnpTcpDemux.Configurator", "DnpTcpDemux.Configurator\DnpTcpDemux.Configurator.csproj", "{864ECFF0-CBDC-47EA-98E3-D510A74B7BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnpTcpDemux.Service", "DnpTcpDemux.Service\DnpTcpDemux.Service.csproj", "{8420A0ED-FD77-413E-923B-5BF6D91BA62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BC0D4A-8530-4736-B4BF-F34E44A75036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BC0D4A-8530-4736-B4BF-F34E44A75036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BC0D4A-8530-4736-B4BF-F34E44A75036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BC0D4A-8530-4736-B4BF-F34E44A75036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0773FB-BDEA-43D0-ADEB-6B21C8749667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0773FB-BDEA-43D0-ADEB-6B21C8749667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0773FB-BDEA-43D0-ADEB-6B21C8749667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0773FB-BDEA-43D0-ADEB-6B21C8749667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864ECFF0-CBDC-47EA-98E3-D510A74B7BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864ECFF0-CBDC-47EA-98E3-D510A74B7BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864ECFF0-CBDC-47EA-98E3-D510A74B7BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864ECFF0-CBDC-47EA-98E3-D510A74B7BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8420A0ED-FD77-413E-923B-5BF6D91BA62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8420A0ED-FD77-413E-923B-5BF6D91BA62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8420A0ED-FD77-413E-923B-5BF6D91BA62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8420A0ED-FD77-413E-923B-5BF6D91BA62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
